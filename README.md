@@ -11,7 +11,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I used to tour with Bob Dylan 🎸
 
-### 🔧 Tools I Like To Use
+## 🔧 Tools I Like To Use
 
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
