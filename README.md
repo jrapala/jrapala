@@ -1,16 +1,19 @@
-### Hi there 👋
+### Juliette Rapala (she/her)
 
-<!--
-**jrapala/jrapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Juliette, a software developer at [Eventric](https://www.eventric.com) where I build apps used by the live entertainment industry.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: An [iOS calculator clone](https://github.com/jrapala/react-native-calculator) built with React Native and TypeScript.
+- 🌱 I’m currently learning: How to get really good at TypeScript.
+- 🤔 What I want to learn next: Building iOS apps with SwiftUI.
+- 📫 How to reach me: `hello@${myfullname}.com`
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I used to tour with Bob Dylan 🎸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Tools I Like To Use
+
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [styled-components](https://styled-components.com/)
+- [Sass](https://sass-lang.com/)
+- [GreenSock](https://greensock.com/gsap/)
