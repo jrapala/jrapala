@@ -19,6 +19,6 @@ Previously I worked at [Eventric](https://www.eventric.com) where I developed ap
 - [TypeScript](https://www.typescriptlang.org/)
 - [Gatsby](https://www.gatsbyjs.com/)
 - [styled-components](https://styled-components.com/)
-- [Storybok](https://storybook.js.org/)
+- [Storybook](https://storybook.js.org/)
 - [Sass](https://sass-lang.com/)
 - [GreenSock](https://greensock.com/gsap/)
