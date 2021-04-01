@@ -1,11 +1,11 @@
 # Juliette Rapala
 
-👋 Hi, I'm Juliette. I'm a software developer at [Ascendum](https://ascendum.com/) where I build mobile apps with React Native.
-Previously I worked at [Eventric](https://www.eventric.com) where I developed apps used by the live entertainment industry.
+👋 Hi, I'm Juliette. I'm a software engineer at [Fender](http://www.fender.com). 
+Previously I have worked at [Ascendum](https://ascendum.com/) where I developed mobile apps used by the healthcare industry and at [Eventric](https://www.eventric.com) where I developed apps used by the live entertainment industry.
 
 ## About Me
 
-- 🔭 I’m currently working on: An [iOS calculator clone](https://github.com/jrapala/react-native-calculator) built with React Native and TypeScript.
+- 🔭 I’m currently working on: Getting my [Google UX Design Certificate](https://grow.google/uxdesign/) so I can better understand design as a developer.
 - 🌱 I’m currently learning: How to build iOS apps with SwiftUI (I'm doing [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)).
 - 🤔 What I want to learn next: Improving my React game with [Epic React](https://epicreact.dev/).
 - 📫 How to reach me: `hello@${myfullname}.com`
