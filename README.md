@@ -1,14 +1,14 @@
-# Juliette Rapala
+# Juliette (Rapala) Russum
 
-👋 Hi, I'm Juliette. I am a Senior Software Engineer at [Fender](http://www.fender.com). 
-Previously I have worked at [Ascendum](https://ascendum.com/) where I developed mobile apps used by the healthcare industry and at [Eventric](https://www.eventric.com) where I developed apps used by the live entertainment industry.
+👋 Hi, I'm Juliette. I am a Senior Software Engineer and a Design System Tech Lead at [The New York Times](https://www.nytimes.com/). 
+My previous experiences include working at organizations such as [Fender](http://www.fender.com), [Ascendum](https://ascendum.com/), and [Eventric](https://www.eventric.com). I have worked on applications for both web and mobile, and particularly enjoy working on design systems and accessibility.
 
 ## About Me
 
-- 🔭 I’m currently working on: Studying for my [IAAP Web Accessibility Specialist Certification](https://www.accessibilityassociation.org/s/wascertification) in order to improve my web accessibility knowledge and skills.
+- 🔭 I’m currently working on: Getting better at TypeScript with [TypeScript Fundamentals](https://mike.works/course/typescript-fundamentals-7832c19) and [Professional TypeScript](https://github.com/mike-north/professional-ts#project-setup).
 - 🌱 I’m currently learning: 3D modeling and animation with [Blender](https://www.blender.org/).
-- 🤔 What I want to learn next: Improving my React game with [Epic React](https://epicreact.dev/).
-- 📫 How to reach me: `hello@${myfullname}.com`
+- 🤔 What I want to learn next: The ins and outs of Next.js with [Introduction to Next.js 13+, v3](https://frontendmasters.com/workshops/next-js-v3/) and [Production-Grade Next.js](https://frontendmasters.com/courses/production-next/).
+- 📫 How to reach me: `hello@julietterapala.com`
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I used to tour with Bob Dylan 🎸
 
