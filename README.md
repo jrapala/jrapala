@@ -1,7 +1,7 @@
 # Juliette (Rapala) Russum
 
-👋 Hi, I'm Juliette. I am a Senior Software Engineer and a Design System Tech Lead at [The New York Times](https://www.nytimes.com/). 
-My previous experiences include working at organizations such as [Fender](http://www.fender.com), [Ascendum](https://ascendum.com/), and [Eventric](https://www.eventric.com). I have worked on applications for both web and mobile, and particularly enjoy working on design systems and accessibility.
+👋 Hi, I'm Juliette. I am a Senior Software Engineer and a Tech Lead at [The New York Times](https://www.nytimes.com/). 
+My previous experiences include working at organizations such as [Fender](http://www.fender.com), [Ascendum](https://ascendum.com/), and [Eventric](https://www.eventric.com). I have worked on applications for both web and mobile, and I particularly enjoy working on design systems and accessibility.
 
 ## About Me
 
